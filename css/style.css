@@ -99,6 +99,9 @@ img {
 	font-size: 30px;
 	margin-left: 10px;
 }
+.slider {
+		height: 800px;
+}
 .content {
 	padding-top:270px;
 	padding-bottom:50px;
