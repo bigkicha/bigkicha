@@ -57,6 +57,8 @@
 		.mark li {
 		text-align: center;
 		font-size: 14px;
+	.owl-nav {
+		display: none;
 	}
  }
 
